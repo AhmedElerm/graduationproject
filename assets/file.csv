@@ -1,0 +1,50 @@
+﻿id,dignosis,الاعراض
+0,itching,مثير للحكة
+1,skin_rash,الطفح الجلدي
+2,continuous_sneezing,العطس المستمر
+3,chills,قشعريرة
+4,joint_pain,الم المفاصل
+5,stomach_pain,آلام المعدة
+6,acidity,حموضة
+7,vomiting,التقيؤ
+8,burning_micturition,حرق التبول
+9,fatigue,تعب
+10,mood_swings,تقلب المزاج
+11,weight_loss,فقدان الوزن
+12,restlessness,الأرق
+13,lethargy,الخمول
+14,cough,سعال
+15,high_fever,ارتفاع درجة الحرارة
+16,breathlessness,ضيق التنفس
+17,sweating,التعرق
+18,indigestion,عسر الهضم
+19,headache,صداع
+20,yellowish_skin,مصفر
+21,dark_urine,البول الداكن
+22,nausea,غثيان
+23,loss_of_appetite,فقدان الشهية
+24,back_pain,ألم في الظهر
+25,constipation,إمساك
+26,abdominal_pain,وجع بطن
+27,diarrhoea,إسهال
+28,mild_fever,حمى خفيفة
+29,yellowing_of_eyes,اصفرار العيون
+30,swelled_lymph_nodes,تضخم_lymph_nodes
+31,malaise,توعك
+32,blurred_and_distorted_vision,رؤية ضبابية ومشوهة
+33,phlegm,البلغم
+34,chest_pain,ألم صدر
+35,fast_heart_rate,معدل ضربات القلب السريع
+36,neck_pain,الم الرقبة
+37,dizziness,دوخة
+38,obesity,بدانة
+39,excessive_hunger,الجوع المفرط
+40,muscle_weakness,ضعف العضلات
+41,stiff_neck,تصلب الرقبة
+42,swelling_joints,انتفاخ المفاصل
+43,loss_of_balance,فقدان التوازن
+44,depression,اكتئاب
+45,irritability,التهيج
+46,muscle_pain,ألم عضلي
+47,red_spots_over_body,red_spots_over_body
+48,family_history,تاريخ العائلة
